@@ -6,7 +6,7 @@ console.log("we are in auth")
 
 try {
     const token=req.header('Authorization').replace('Bearer ','')
-    const  decode=jwt.verify(token,'secretkey')
+    const  decode=jwt.verify(token,process.env.JWT_KEY)
     // console.log(token)
     // console.log(decode)
     // it print decode deatil which we sent when we are creating one 
