@@ -10,7 +10,7 @@
   <p align="center">
     This is an awesome task-manager REST API
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alexanderritik/Task-manager-API/blob/master/documentaion.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://alexander-ritik-task-manager.herokuapp.com">View Demo</a>
